@@ -4,11 +4,11 @@
     <ToolCommandName>versioninfo</ToolCommandName>
     <PackAsTool>True</PackAsTool>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <Version>1.0.2</Version>
     <Description>Display version information of .NET Core assemblies</Description>
     <Authors>Jonathan Taylor</Authors>
-    <PackageTags>.NET Core Global Tool</PackageTags>
+    <PackageTags>.NET Global Tool</PackageTags>
     <PackageProjectUrl>https://github.com/taylorjg/dotnet-versioninfo</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/taylorjg/dotnet-versioninfo/blob/master/license.txt</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/taylorjg/dotnet-versioninfo.git</RepositoryUrl>
